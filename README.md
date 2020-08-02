@@ -14,7 +14,7 @@ GOTO：查看说明请转到：https://www.cnblogs.com/nreg/p/11992678.html
 
 1.打开typora，`文件-偏好设置`，将图片地址设置为`D:\图片库\${filename}\`，路径没有要求
 
-![F:\同步盘\OneDrive - xKx\Typora image storage space\typora的使用\1575550147866.png](https://user-gold-cdn.xitu.io/2019/12/5/16ed61b61ddd717d?w=694&h=214&f=png&s=6893)
+![img](https://user-gold-cdn.xitu.io/2019/12/5/16ed61b61ddd717d?w=694&h=214&f=png&s=6893)
 
 > 配置作用：所有图片都在同一根目录下，便于管理
 >
@@ -24,7 +24,7 @@ GOTO：查看说明请转到：https://www.cnblogs.com/nreg/p/11992678.html
 
 找到Typora的安装目录`Typora\resources\app`下的`window.html`文件：注意是安装目录
 
-![F:/同步盘/OneDrive - xKx/Typora image storage space/ImgHosting使用说明/image-20200803051224281.png](https://cy-pic.kuaizhan.com/g3/0e/ee/74eb-1ce2-4ba0-a439-f54b70a4637613?cysign=dffce7abbb05de327281684f8be5d3a1&cyt=1596402746)
+![img](https://cy-pic.kuaizhan.com/g3/0e/ee/74eb-1ce2-4ba0-a439-f54b70a4637613?cysign=dffce7abbb05de327281684f8be5d3a1&cyt=1596402746)
 
 用任意编辑器打开，全局搜索：
 
@@ -44,7 +44,7 @@ GOTO：查看说明请转到：https://www.cnblogs.com/nreg/p/11992678.html
 
 将本插件`plugins`文件夹复制到Typora的安装目录`Typora\resources\app`下：注意是安装目录
 
-![F:/同步盘/OneDrive - xKx/Typora image storage space/ImgHosting使用说明/image-20200803052102466.png](https://cy-pic.kuaizhan.com/g3/c8/cd/ad51-13cc-4746-80e4-17b6c688d49534?cysign=f02cc89ddfe61a630d7d78ecbecb2a72&cyt=1596403265)
+![img](https://cy-pic.kuaizhan.com/g3/c8/cd/ad51-13cc-4746-80e4-17b6c688d49534?cysign=f02cc89ddfe61a630d7d78ecbecb2a72&cyt=1596403265)
 
 > 插件说明：
 >
@@ -56,7 +56,7 @@ GOTO：查看说明请转到：https://www.cnblogs.com/nreg/p/11992678.html
 
 将`vue`文件夹及`vue.ccs`移动到 `C:\Users\用户名\AppData\Roaming\Typora\themes`下：注意是系统目录
 
-![F:/同步盘/OneDrive - xKx/Typora image storage space/ImgHosting使用说明/image-20200803053850393.png](https://cy-pic.kuaizhan.com/g3/83/95/c9ad-cc68-4f40-8f45-bff2ee52afaa70?cysign=e6a5bb0dc2dbb24b1d8751f9294a1f7a&cyt=1596404333)
+![img](https://cy-pic.kuaizhan.com/g3/83/95/c9ad-cc68-4f40-8f45-bff2ee52afaa70?cysign=e6a5bb0dc2dbb24b1d8751f9294a1f7a&cyt=1596404333)
 
 > 使用说明：重启typora，菜单栏点击主题-选择vue即可
 >
@@ -91,13 +91,13 @@ JDK：8U191及以上
 
 部署：将编译文件拖到tomcat的webapp目录下即可：
 
-![F:/同步盘/OneDrive - xKx/Typora image storage space/ImgHosting使用说明/image-20200803054951866.png](https://cy-pic.kuaizhan.com/g3/9f/ce/f4c8-1581-44b0-abe1-9730805d130a28?cysign=89939eccf6e19de5d7cf902095825c7e&cyt=1596404994)
+![img](https://cy-pic.kuaizhan.com/g3/9f/ce/f4c8-1581-44b0-abe1-9730805d130a28?cysign=89939eccf6e19de5d7cf902095825c7e&cyt=1596404994)
 
 > 说明：端口可以更改(每次变更都需要重启服务器)，相应的，客户端上传插件upload.js也需要更改(每次变更都需要重启typora)
 
 ### 六、使用说明：
 
-![F:/同步盘/OneDrive - xKx/Typora image storage space/ImgHosting使用说明/image-20200803062054409.png](https://cy-pic.kuaizhan.com/g3/c5/61/2ea8-9a5f-4ce8-81f4-dbab3a28c1a014?cysign=77710dce464a34986b7653b79ba2b120&cyt=1596406863)
+![img](https://cy-pic.kuaizhan.com/g3/c5/61/2ea8-9a5f-4ce8-81f4-dbab3a28c1a014?cysign=77710dce464a34986b7653b79ba2b120&cyt=1596406863)
 
 > 使用说明：
 >
